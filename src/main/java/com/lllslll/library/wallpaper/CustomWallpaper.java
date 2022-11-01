@@ -15,7 +15,7 @@ public abstract class CustomWallpaper extends WallpaperService
 
     private int updateForSec = 40;
 
-    private boolean isFrameLimited = false;
+    private boolean isFrameLimited = true;
 
     protected abstract void onDraw(Canvas canvas, Paint paint, int width, int height, long deltaTime);
 
