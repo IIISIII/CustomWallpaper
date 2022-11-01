@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomWallpaper.iml" filepath="$PROJECT_DIR$/CustomWallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomWallpaper.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomWallpaper.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomWallpaper.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomWallpaper.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomWallpaper.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomWallpaper.unitTest.iml" />
+    </modules>
+  </component>
+</project>
